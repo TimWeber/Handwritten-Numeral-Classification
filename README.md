@@ -5,15 +5,15 @@ Using a test image of the number 21:
 
 The algorithm first converts the image to binary before using morphological operations to process the image.
 
-![21k3-7mo](README-images/21k3-7mo.jpg)
+![21k3-7mo](README-images/21k3-7mo.JPG)
 
 Then it is possible to identify and separate multiple digits within a number. 
 
-![21separated](README-images/21separated.jpg)
+![21separated](README-images/21separated.JPG)
 
 The digits can now be classified
 
-![confidence21-k3-7mo](README-images/confidence21-k3-7mo.jpg)
+![confidence21-k3-7mo](README-images/confidence21-k3-7mo.JPG)
 
 
 # How to use:
