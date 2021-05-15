@@ -9,7 +9,7 @@ The algorithm first converts the image to binary before using morphological oper
 
 Then it is possible to identify and separate multiple digits within a number. 
 
-![21separated](README-images/21separated.JPG)
+![21separated](README-images/21-separated.JPG)
 
 The digits can now be classified
 
