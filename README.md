@@ -1,5 +1,19 @@
 # Numeral-Classification
-Classification of Handwritten Numerals Through the Exploration of a k-Nearest Neighbours Classifier  and a Supervised Learning Convolutional Neural Network.
+Classification of Handwritten Numerals Through the Exploration of a k-Nearest Neighbours Classifier and a Supervised Learning Convolutional Neural Network.
+
+Using a test image of the number 21:
+
+The algorithm first converts the image to binary before using morphological operations to process the image.
+![AMV](README-images/21k3-7mo.jpg)
+
+Then it is possible to identify and separate multiple digits within a number. 
+
+![AMV](README-images/21separated.jpg)
+
+The digits can now be classified
+
+![AMV](README-images/confidence21-k3-7mo.jpg)
+
 
 # How to use:
 
