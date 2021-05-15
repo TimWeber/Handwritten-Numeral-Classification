@@ -4,15 +4,15 @@ Classification of Handwritten Numerals Through the Exploration of a k-Nearest Ne
 Using a test image of the number 21:
 
 The algorithm first converts the image to binary before using morphological operations to process the image.
-![AMV](README-images/21k3-7mo.jpg)
+![21k3-7mo](README-images/21k3-7mo.jpg)
 
 Then it is possible to identify and separate multiple digits within a number. 
 
-![AMV](README-images/21separated.jpg)
+![21separated](README-images/21separated.jpg)
 
 The digits can now be classified
 
-![AMV](README-images/confidence21-k3-7mo.jpg)
+![confidence21-k3-7mo](README-images/confidence21-k3-7mo.jpg)
 
 
 # How to use:
