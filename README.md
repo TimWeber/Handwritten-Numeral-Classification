@@ -1,4 +1,11 @@
 # Numeral-Classification
+This was for the Advanced Machine Vision module. 
+
+-----------------------------------------------------------------------------------------------------
+#### TO DO:
+#### Clean up the folders and code to make it a bit easier to follow.
+------------------------------------------------------------------------------------------------------
+
 Classification of Handwritten Numerals Through the Exploration of a k-Nearest Neighbours Classifier and a Supervised Learning Convolutional Neural Network.
 
 The first stage of this assignment was to build a KNN to classify handwritten numerals:
